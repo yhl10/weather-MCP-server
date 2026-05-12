@@ -5,7 +5,7 @@
     "weather-js": {
       "command": "node",
       "args": [
-        "C:/Users/13216/Desktop/weather/code/index.js"
+        "your path/code/index.js"
       ],
       "env": {},
       "disabled": false,
