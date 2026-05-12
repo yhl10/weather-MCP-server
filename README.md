@@ -1,2 +1,2 @@
 # weather-MCP-server
-A Weather Query MCP Server
+A Weather Query MCP Server Base On NodeJS
